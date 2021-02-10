@@ -13,7 +13,7 @@ python3 year_sheet.py
 ```
 
 **Command line args**  
-`-s` `--source` a path to a file with 365 or 366 lines with floats.   
+`-s` `--source` a path to a file with 365 or 366 lines full of floats.  
 `-y` `--year` Just for giving the chart a compelling name.   
 `-b` `--bare` Display only the year sheet. Otherwise it shows also a week load with the aggregated values per week.  
 
