@@ -1,5 +1,6 @@
 __pycache__/
 .python-version
 .coverage
+htmlcov/
 
 *.swp
